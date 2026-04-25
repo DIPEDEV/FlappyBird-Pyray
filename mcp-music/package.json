@@ -1,0 +1,12 @@
+{
+  "name": "openclaw-minimax-music",
+  "version": "1.0.0",
+  "description": "MCP server for MiniMax music generation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
